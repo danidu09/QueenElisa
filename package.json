@@ -1,7 +1,7 @@
 {
-  "name": "queen-elisa-md",
+  "name": "black-adam-md",
   "version": "4.0.1",
-  "description": "Queen Elisa Automated whatsapp md bot created by mr nima using nodejs and baileys lib",
+  "description": "black-adam md Automated whatsapp md bot created by danidu nirmal using nodejs and baileys lib",
   "main": "start.js",
   "directories": {
     "lib": "lib"
